@@ -1,0 +1,15 @@
+@media (max-width: 767px) {
+
+#maincard
+{
+  
+    flex-wrap: wrap;
+}
+.card1,.card2,.card3
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+    
+ }
